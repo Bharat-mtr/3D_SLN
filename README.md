@@ -6,6 +6,8 @@ Code release for:
 
 [Project site](http://3dsln.csail.mit.edu/),  [Bibtex](http://3dsln.csail.mit.edu/bibtex/3dsln_cvpr.bib) 
 
+[DAGsHub Repository](https://dagshub.com/Bharat-mtr/3D_SLN)
+
 For help contact `afluo [a.t] andrew.cmu.edu` or open an issue
 * Requirements  
    * Pytorch 1.2 (for everything)
@@ -28,7 +30,7 @@ For help contact `afluo [a.t] andrew.cmu.edu` or open an issue
    * PyMesh (for scene refnement only, remeshing of SUNCG objects)
    * 1 Nvidia GPU
   
-Download checkpoints [here](https://u.pcloud.link/publink/show?code=XZcDaNkZiaNSUcUK57R7aLJH9Pr3kyzWGqMk), download metadata [here](https://u.pcloud.link/publink/show?code=XZaDaNkZ4bapJodBqTjUBrpyMqUT8zqqCQHk)
+Download checkpoints [here](https://dagshub.com/Bharat-mtr/3D_SLN/src/master/model_weight), download metadata [here](https://dagshub.com/Bharat-mtr/3D_SLN/src/master/data_file)
 ```
 Project structure
 |-3d_SLN
